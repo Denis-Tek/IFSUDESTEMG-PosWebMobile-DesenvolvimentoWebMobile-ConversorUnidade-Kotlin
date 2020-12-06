@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conversor De Unidades</string>
+    
+    <string-array name="unidades">
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>dam</item>
+        <item>hm</item>
+        <item>km</item>
+    </string-array>
+
+</resources>
